@@ -1,0 +1,634 @@
+# Reading C:/altera/16.0/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile C:/Users/Tarren/Desktop/CSC258/lab02/wave_part2.do
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02
+do wave_part2.do
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 06:23:19 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part2.v 
+# -- Compiling module mux4to1
+# -- Compiling module mux2to1a
+# -- Compiling module mux2to1b
+# -- Compiling module mux2to1c
+# 
+# Top level modules:
+# 	mux4to1
+# End time: 06:23:19 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim lab02_prelab_part2 
+# Start time: 06:23:19 on Sep 28,2016
+# ** Error: (vsim-3170) Could not find 'C:/Users/Tarren/Desktop/CSC258/lab02/work.lab02_prelab_part2'.
+# 
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./wave_part2.do PAUSED at line 12
+abort
+# End time: 06:26:07 on Sep 28,2016, Elapsed time: 0:02:48
+# Errors: 1, Warnings: 0
+do wave_part2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 06:26:14 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part2.v 
+# -- Compiling module mux4to1
+# -- Compiling module mux2to1a
+# -- Compiling module mux2to1b
+# -- Compiling module mux2to1c
+# 
+# Top level modules:
+# 	mux4to1
+# End time: 06:26:14 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim lab02_prelab_part2 
+# Start time: 06:26:14 on Sep 28,2016
+# ** Error: (vsim-3170) Could not find 'C:/Users/Tarren/Desktop/CSC258/lab02/work.lab02_prelab_part2'.
+# 
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./wave_part2.do PAUSED at line 12
+abort
+do wave_part2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 06:27:07 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part2.v 
+# -- Compiling module mux4to1
+# -- Compiling module mux2to1a
+# -- Compiling module mux2to1b
+# -- Compiling module mux2to1c
+# 
+# Top level modules:
+# 	mux4to1
+# End time: 06:27:07 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim mux4to1 
+# Start time: 06:27:07 on Sep 28,2016
+# Loading work.mux4to1
+# Loading work.mux2to1a
+# Loading work.mux2to1b
+# Loading work.mux2to1c
+# ** Error: bad option "mux4to1": should be one of...
+#   add atv ?options? ?arg arg ...?
+#   add button text action ?disable? ?options? ?help?
+#   add dataflow ?options? ?arg arg ...?
+#   add lists ?options? ?arg arg ...?
+#   add log ?options? ?arg arg ...?
+#   add memory options ?arg arg ...?
+#   add message ?options? ?arg arg ...?
+#   add monitor ?options? ?arg arg ...?
+#   add schematic ?options? ?arg arg ...?
+#   add testbrowser ?options? ?arg arg ...?
+#   add virtual ?options? ?arg arg ...?
+#   add watch ?options? ?arg arg ...?
+#   add wave ?options? ?arg arg ...?
+# Error in macro ./wave_part2.do line 17
+# ** Error: bad option "mux4to1": should be one of...
+#   add atv ?options? ?arg arg ...?
+#   add button text action ?disable? ?options? ?help?
+#   add dataflow ?options? ?arg arg ...?
+#   add lists ?options? ?arg arg ...?
+#   add log ?options? ?arg arg ...?
+#   add memory options ?arg arg ...?
+#   add message ?options? ?arg arg ...?
+#   add monitor ?options? ?arg arg ...?
+#   add schematic ?options? ?arg arg ...?
+#   add testbrowser ?options? ?arg arg ...?
+#   add virtual ?options? ?arg arg ...?
+#   add watch ?options? ?arg arg ...?
+#   add wave ?options? ?arg arg ...?
+#     while executing
+# "error $msg"
+#     (procedure "::add::_unknown_" line 21)
+#     invoked from within
+# "::add::_unknown_ ::add mux4to1"
+#     (ensemble unknown subcommand handler)
+#     invoked from within
+# "add mux4to1"
+abort
+abort
+abort
+# Load canceled
+do wave_part2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 08:33:38 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part2.v 
+# -- Compiling module mux4to1
+# -- Compiling module mux2to1a
+# -- Compiling module mux2to1b
+# -- Compiling module mux2to1c
+# 
+# Top level modules:
+# 	mux4to1
+# End time: 08:33:38 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 08:33:41 on Sep 28,2016, Elapsed time: 2:06:34
+# Errors: 3, Warnings: 0
+# vsim mux4to1 
+# Start time: 08:33:41 on Sep 28,2016
+# Loading work.mux4to1
+# Loading work.mux2to1a
+# Loading work.mux2to1b
+# Loading work.mux2to1c
+# too many colors
+do wave_part2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 08:55:42 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part2.v 
+# -- Compiling module mux4to1
+# -- Compiling module mux2to1a
+# -- Compiling module mux2to1b
+# -- Compiling module mux2to1c
+# 
+# Top level modules:
+# 	mux4to1
+# End time: 08:55:42 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 08:55:44 on Sep 28,2016, Elapsed time: 0:22:03
+# Errors: 1, Warnings: 0
+# vsim mux4to1 
+# Start time: 08:55:44 on Sep 28,2016
+# Loading work.mux4to1
+# Loading work.mux2to1a
+# Loading work.mux2to1b
+# Loading work.mux2to1c
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02
+cd lab02_prelab_part3
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+ls
+# lab02_prelab_part2.qpf  lab02_prelab_part2.v                 lab02_prelab_part2_stimulation1_rev.png  lab02_prelab_part2_stimulation2_rev.png  transcript  wave_part2.do      
+# lab02_prelab_part2.qsf  lab02_prelab_part2_stimulation1.png  lab02_prelab_part2_stimulation2.png      modelsim.ini                             vsim.wlf    wave_part2.do.bak  
+# 
+# db:
+# lab02_prelab_part2.db_info  lab02_prelab_part2.quiproj.4568.rdr.flock                                                                              
+# 
+# lab02_prelab_part1:
+# mux.v  transcript  vsim.wlf  wave.do  work                        
+# 
+# lab03_prelab_part3:
+# lab03_prelab_part3.v  wave_part3.do  wave_part3.do.bak                                                
+# 
+# work:
+# _info  _lib.qdb  _lib1_0.qdb  _lib1_0.qpg  _lib1_0.qtl  _vmake                
+cd lab02_prelab_part3
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+cd lab02_prelab_part3
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02
+cd lab02_prelab_part3
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit -sim
+# End time: 11:22:38 on Sep 28,2016, Elapsed time: 2:26:54
+# Errors: 4, Warnings: 0
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02
+cd lab02_prelab_part3
+# reading C:/altera/16.0/modelsim_ase/win32aloem/../modelsim.ini
+do wave_part3.do
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 11:23:04 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# ** Error: (vlog-7) Failed to open design unit file "lab02_prelab_part3.v" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)
+# End time: 11:23:04 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/altera/16.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./wave_part3.do line 9
+# C:/altera/16.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -timescale 1ns/1ns lab02_prelab_part3.v"
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02/lab02_prelab_part3
+do wave_part3.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 11:24:10 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# ** Error: lab02_prelab_part3.v(14): (vlog-2730) Undefined variable: 'sw'.
+# 
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# End time: 11:24:10 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/altera/16.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./wave_part3.do line 9
+# C:/altera/16.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -timescale 1ns/1ns lab02_prelab_part3.v"
+do wave_part3.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 11:26:35 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 11:26:35 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 11:26:35 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+do wave_part3.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 11:35:12 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 11:35:12 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 11:35:15 on Sep 28,2016, Elapsed time: 0:08:40
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 11:35:15 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+do wave_part3.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 11:37:49 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 11:37:49 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 11:37:52 on Sep 28,2016, Elapsed time: 0:02:37
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 11:37:52 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+cd ..
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit -sim
+# End time: 12:01:44 on Sep 28,2016, Elapsed time: 0:23:52
+# Errors: 1, Warnings: 0
+cd ..
+# reading modelsim.ini
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02
+cd lab02_prelab_part3_3_simulation
+# reading C:/altera/16.0/modelsim_ase/win32aloem/../modelsim.ini
+do wave_part3_3_simulation.do
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:02:34 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:02:34 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:02:34 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:10:33 on Sep 28,2016, Elapsed time: 0:07:59
+# Errors: 0, Warnings: 0
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02/lab02_prelab_part3_3_simulation
+do wave_part3_3_simulation.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:10:58 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:10:58 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:10:58 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:11:48 on Sep 28,2016, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 0
+do wave_part3_3_simulation.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:11:57 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:11:57 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:11:57 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:12:55 on Sep 28,2016, Elapsed time: 0:00:58
+# Errors: 0, Warnings: 0
+do wave_part3_3_simulation.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:13:00 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:13:00 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:13:00 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:14:39 on Sep 28,2016, Elapsed time: 0:01:39
+# Errors: 0, Warnings: 0
+cd ..
+# reading modelsim.ini
+cd lab02_prelab_part3_3_simulation
+# reading C:/altera/16.0/modelsim_ase/win32aloem/../modelsim.ini
+do wave_part3_3_simulation.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:15:08 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:15:08 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:15:08 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:16:52 on Sep 28,2016, Elapsed time: 0:01:44
+# Errors: 0, Warnings: 0
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02/lab02_prelab_part3_3_simulation
+cd ..
+# reading modelsim.ini
+cd lab02_prelab_part3_3_simulation
+# reading C:/altera/16.0/modelsim_ase/win32aloem/../modelsim.ini
+do wave_part3_3_simulation.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:17:30 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:17:30 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:17:30 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:29:08 on Sep 28,2016, Elapsed time: 0:11:38
+# Errors: 0, Warnings: 0
+cd ..
+# reading modelsim.ini
+cd lab02_prelab_part3_3_simulation
+# reading C:/altera/16.0/modelsim_ase/win32aloem/../modelsim.ini
+do wave_part3_3_simulation.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:29:29 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:29:29 on Sep 28,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:29:30 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:33:54 on Sep 28,2016, Elapsed time: 0:04:24
+# Errors: 0, Warnings: 0
+pwd
+# C:/Users/Tarren/Desktop/CSC258/lab02/lab02_prelab_part3_3_simulation
+do wave_part3_3_simulation.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:34:03 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns lab02_prelab_part3.v 
+# -- Compiling module HEX_decoder
+# -- Compiling module decoder_HEX00
+# -- Compiling module decoder_HEX01
+# -- Compiling module decoder_HEX02
+# -- Compiling module decoder_HEX03
+# -- Compiling module decoder_HEX04
+# -- Compiling module decoder_HEX05
+# -- Compiling module decoder_HEX06
+# 
+# Top level modules:
+# 	HEX_decoder
+# End time: 12:34:04 on Sep 28,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim HEX_decoder 
+# Start time: 12:34:04 on Sep 28,2016
+# Loading work.HEX_decoder
+# Loading work.decoder_HEX00
+# Loading work.decoder_HEX01
+# Loading work.decoder_HEX02
+# Loading work.decoder_HEX03
+# Loading work.decoder_HEX04
+# Loading work.decoder_HEX05
+# Loading work.decoder_HEX06
+quit -sim
+# End time: 12:40:14 on Sep 28,2016, Elapsed time: 0:06:10
+# Errors: 0, Warnings: 0
+cd ..
+# reading modelsim.ini
+cd lab02_prelab_part1
+# reading C:/altera/16.0/modelsim_ase/win32aloem/../modelsim.ini
+do wave.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 12:40:31 on Sep 28,2016
+# vlog -reportprogress 300 -timescale 1ns/1ns mux.v 
+# -- Compiling module mux
+# -- Compiling module mux2to1
+# 
+# Top level modules:
+# 	mux
+# End time: 12:40:32 on Sep 28,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim mux 
+# Start time: 12:40:32 on Sep 28,2016
+# Loading work.mux
+# Loading work.mux2to1
